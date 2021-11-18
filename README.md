@@ -38,6 +38,14 @@ A window will pop up soon (<30seconds) displaying your phone's camera view and a
 
 ### Hand Landmark Detection
 
+![Finger landmark Detection](https://github.com/AbhinavGupta121/Virtual-Piano-using-Open-CV/blob/main/results/Top_view_result.jpg)
 
+### Real-time virtual piano
+
+
+
+
+
+https://user-images.githubusercontent.com/45709653/142473908-40d02ab3-b5ae-4e03-87d4-baacf10fe664.mp4
 
 
