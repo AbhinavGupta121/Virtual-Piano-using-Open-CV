@@ -8,17 +8,24 @@ This project employs use of many other libraries apart from OpenCV such as pygam
 
 ## Getting Started
 
-1) As with any other project, we will first install all the dependencies required for building this project which are listed down in the requirements.txt file. To install, use `pip3 install' command as shown below:
+- As with any other project, we will first install all the dependencies required for building this project which are listed down in the requirements.txt file. To install, use `pip3 install' command as shown below:
 
-`pip3 install -r requirements.txt`
+` pip3 install -r requirements.txt`
 
-Note that python 2 users should use pip instead of pip3. 
+  Note that python 2 users should use pip instead of pip3. If any dependencies couldn't be installed on your system due to compatibility issues, please search for other compatible versions!
 
-If any dependencies couldn't be installed on your system due to compatibility issues, please search for other compatible versions!
+- Once dependencies are installed, it is time to clone the repository using `git clone` and change to `~/scripts` directory. Use the following command.
 
-2) Once dependencies are installed, it is time to clone the repository using `git clone`. Use the following command.
+`git clone https://github.com/AbhinavGupta121/Virtual-Piano-using-Open-CV.git`
+`cd Virtual-Piano-using-Open-CV/scripts/`
 
-`git clone 
+- Now it is time to install 88 piano key sounds. You can simply download them manually using this (link) or by using command line itself. To use command line, run this command under `~/scripts` folder.
+
+`wget https://archive.org/download/25405-tedagame-88-piano-keys-long-reverb/25405__tedagame__88-piano-keys-long-reverb.zip`
+
+Now extract the zip file and you are good to go!
+
+- 
 
 
 
