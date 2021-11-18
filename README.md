@@ -43,9 +43,9 @@ A window will pop up soon (<30seconds) displaying your phone's camera view and a
 ### Real-time virtual piano
 
 
-
-
-
 https://user-images.githubusercontent.com/45709653/142473908-40d02ab3-b5ae-4e03-87d4-baacf10fe664.mp4
+
+
+Nearly 4fps was achieved with an image resolution of (640,480) on a  
 
 
