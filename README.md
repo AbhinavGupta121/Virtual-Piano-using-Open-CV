@@ -17,6 +17,7 @@ This project employs use of many other libraries apart from OpenCV such as pygam
 - Once dependencies are installed, it is time to clone the repository using `git clone` and change to `~/scripts` directory. Use the following command.
 
 `git clone https://github.com/AbhinavGupta121/Virtual-Piano-using-Open-CV.git`
+
 `cd Virtual-Piano-using-Open-CV/scripts/`
 
 - Now it is time to install 88 piano key sounds. You can simply download them manually using this (link) or by using command line itself. To use command line, run this command under `~/scripts` folder.
