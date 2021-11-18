@@ -1,6 +1,6 @@
 # Overview
 
-This is a hobby project which includes a hand-gesture controlled virtual piano using an android phone camera and some OpenCV library functions. My motivation to initiate this project is two fold. I always felt the urge to be able to play piano since my childhood but huge instrumental costs barred my way. This is true for most of the musical instruments which are often very costly. I thought of putting my recently acquired computer vision skills to practice and make virtual music instruments through this project. Currently, this project only supports piano but I shall add modules for other instruments soon. While this project is very basic, more contributions are always welcomed to further improve it. 
+This is a hobby project which includes a hand-gesture controlled virtual piano using an android phone camera and some OpenCV library. My motivation to initiate this project is two fold. I always felt the urge to be able to play piano since my childhood but huge instrumental costs barred my way. This is true for most of the musical instruments which are often very costly. I thought of putting my recently acquired computer vision skills to practice and make virtual music instruments through this project. Currently, this project only supports piano but I will add more modules for other instruments soon. While this project is very basic, more contributions are always welcomed to further improve it. 
 
 ## Working
 
@@ -46,6 +46,6 @@ A window will pop up soon (<30seconds) displaying your phone's camera view and a
 https://user-images.githubusercontent.com/45709653/142473908-40d02ab3-b5ae-4e03-87d4-baacf10fe664.mp4
 
 
-Nearly 4fps was achieved with an image resolution of (640,480) on a  
+Nearly 4fps was achieved with an image resolution of (640,480) on a Intel® Core™ i5-7200U CPU @ 2.50GHz × 4. However, network latency can be minimized by using laptop webcam directly in which case >10 fps was achieved!
 
 
