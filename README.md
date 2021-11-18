@@ -29,7 +29,9 @@ Now simply extract the zip file and you are good to go!
 
 - That's pretty much it! Now open up your terminal and run the `Virtual_Piano.py` using this command.
 
-`python3 Virtual_Piano.py`. A window will pop up displaying your phone's camera view and a virtual piano. move around your hands and imitate key pressing to hear melodic piano sounds! Congratulations!!
+`python3 Virtual_Piano.py`. 
+
+A window will pop up soon (<30seconds) displaying your phone's camera view and a virtual piano. Move around your hands and imitate key pressing to hear melodic piano sounds! Congratulations!!
 
 
 
