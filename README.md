@@ -1,2 +1,2 @@
 # Virtual-Piano-using-Open-CV
-A hobby project which includes a hand-gesture based virtual piano using a mobile phone camera and OpenCV library functions
+This is a hobby project which includes a hand-gesture controlled virtual piano using an android phone camera and some OpenCV library functions. 
