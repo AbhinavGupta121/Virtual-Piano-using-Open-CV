@@ -47,6 +47,6 @@ https://user-images.githubusercontent.com/45709653/142473908-40d02ab3-b5ae-4e03-
 
 ## FPS
 
-Nearly 4fps was achieved with an image resolution of (640,480) on a Intel® Core™ i5-7200U CPU @ 2.50GHz × 4. However, network latency can be minimized by using laptop webcam directly in which case >10 fps was achieved!
+Nearly 4fps was achieved with an image resolution of (640,480) on a Intel® Core™ i5-7200U CPU @ 2.50GHz × 4. To ease up computations, we can reduce image resolution or optimize within code itself. Network latency can be further minimized by using laptop webcam directly in which case >10 fps was achieved!
 
 
