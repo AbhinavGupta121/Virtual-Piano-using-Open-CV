@@ -36,6 +36,8 @@ A window will pop up soon (<30seconds) displaying your phone's camera view and a
 
 ## Results
 
+### Hand Landmark Detection
+
 
 
 
