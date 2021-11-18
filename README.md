@@ -4,7 +4,7 @@ This is a hobby project which includes a hand-gesture controlled virtual piano u
 
 ## Working
 
-This project employs use of many other libraries apart from OpenCV such as pygame, mediapipe etc to develop it. In the first step, we use mediapipe (add link) library to detect 21 finger landmarks for each hand. MediaPipe offers open source cross-platform, customizable ML solutions for object detection, face detection, human pose detection/tracking etc, and is one of the most widely used libraries for hand motion tracking. Once all finger landmarks are obtained, we use a simple algorithm to detect a particular key press. If key press is within the boundaries of virtual piano, we add that piano key music to a list and start playing it. The algorithm is capable of mixing up several key notes simultaneously in case of multiple key presses. Interesting, isn't it? So let's dive in and get it started on your own PC!
+This project employs use of many other libraries apart from OpenCV such as pygame, mediapipe etc to develop it. In the first step, we use [mediapipe](https://mediapipe.dev/) library to detect 21 finger landmarks for each hand. MediaPipe offers open source cross-platform, customizable ML solutions for object detection, face detection, human pose detection/tracking etc, and is one of the most widely used libraries for hand motion tracking. Once all finger landmarks are obtained, we use a simple algorithm to detect a particular key press. If key press is within the boundaries of virtual piano, we add that piano key music to a list and start playing it. The algorithm is capable of mixing up several key notes simultaneously in case of multiple key presses. Interesting, isn't it? So let's dive in and get it started on your own PC!
 
 ## Getting Started
 
@@ -45,6 +45,7 @@ A window will pop up soon (<30seconds) displaying your phone's camera view and a
 
 https://user-images.githubusercontent.com/45709653/142473908-40d02ab3-b5ae-4e03-87d4-baacf10fe664.mp4
 
+## FPS
 
 Nearly 4fps was achieved with an image resolution of (640,480) on a Intel® Core™ i5-7200U CPU @ 2.50GHz × 4. However, network latency can be minimized by using laptop webcam directly in which case >10 fps was achieved!
 
