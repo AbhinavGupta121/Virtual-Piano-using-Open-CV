@@ -1,6 +1,6 @@
 # Overview
 
-This is a hobby project which includes a hand-gesture controlled virtual piano using an android phone camera and some OpenCV library. My motivation to initiate this project is two fold. I always felt the urge to be able to play piano since my childhood but huge instrumental costs barred my way. This is true for most of the musical instruments which are often very costly. I thought of putting my recently acquired computer vision skills to practice and make virtual music instruments through this project. Currently, this project only supports piano but I will add more modules for other instruments soon. While this project is very basic, more contributions are always welcomed to further improve it. 
+This is a hobby project which includes a hand-gesture controlled virtual piano using an android phone camera and OpenCV. My motivation to initiate this project is two fold. I always felt the urge to be able to play piano since my childhood but huge instrumental costs barred my way. This is true for most of the musical instruments which are often very costly. I thought of putting my recently acquired computer vision skills to practice and make virtual music instruments through this project. Currently, this project only supports piano but I will add more modules for other instruments soon. While this project is very basic, more contributions are always welcomed to further improve it. 
 
 ## Working
 
